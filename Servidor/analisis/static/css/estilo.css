@@ -1,0 +1,17 @@
+.banner{
+    height: 10vh;
+    background-color: #0c0b0b;
+}
+.grafico{
+    height: 80vh;
+    background-color: white;
+}
+
+body {
+    font-family: sans-serif;
+  }
+  
+.opcion{
+    font-weight: bold;
+    color: #008CBA;
+}
