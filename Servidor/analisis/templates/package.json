@@ -1,0 +1,20 @@
+{
+  "name": "polynomial-regression",
+  "version": "1.0.0",
+  "author": "Mustapha Mekhatria",
+  "description": "Data science:\nPolynomial regression ",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index1.html --open",
+    "build": "parcel build index1.html"
+  },
+  "dependencies": {
+    "highcharts": "8.0.4",
+    "regression": "2.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": ["regression", "polynomial regression ", "data science"]
+}
